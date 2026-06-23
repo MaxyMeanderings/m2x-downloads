@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "m2x selection --hook",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

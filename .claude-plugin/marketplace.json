@@ -1,0 +1,12 @@
+{
+  "name": "m2x",
+  "owner": { "name": "SZD Labs" },
+  "description": "m2x — the map of what you built: deterministic codebase scanning, an editable hand-drawn canvas, intent in pencil, and the pointer for Claude Code.",
+  "plugins": [
+    {
+      "name": "m2x",
+      "source": "./plugin",
+      "description": "Skills for mapping and briefing (map), intent capture (scribe), and the selection hook: click a box on the m2x canvas and \"what is this?\" already has a referent."
+    }
+  ]
+}
