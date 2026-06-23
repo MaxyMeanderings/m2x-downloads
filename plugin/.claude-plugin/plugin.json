@@ -2,9 +2,9 @@
   "name": "m2x",
   "displayName": "m2x",
   "description": "The map of what you built, on an editable hand-drawn canvas — scan a codebase into deterministic facts, brief the owner, record intent in pencil, and the pointer: click a box on the canvas and Claude knows what \"this\" means. Requires the m2x binary on PATH (run `m2x install`).",
-  "version": "0.5.5",
+  "version": "0.5.7",
   "author": { "name": "SZD Labs" },
-  "homepage": "https://github.com/MaxyMeanderings/m2x",
-  "repository": "https://github.com/MaxyMeanderings/m2x",
+  "homepage": "https://github.com/MaxyMeanderings/m2x-downloads",
+  "repository": "https://github.com/MaxyMeanderings/m2x-downloads",
   "keywords": ["diagram", "canvas", "codebase-map", "mermaid", "architecture"]
 }

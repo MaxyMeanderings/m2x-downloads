@@ -21,7 +21,7 @@ can't block your prompts — m2x never returns the blocking exit code), but
 update to silence the stderr noise. Then, inside Claude Code:
 
 ```
-/plugin marketplace add MaxyMeanderings/m2x
+/plugin marketplace add MaxyMeanderings/m2x-downloads
 /plugin install m2x@m2x
 ```
 
